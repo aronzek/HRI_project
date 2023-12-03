@@ -9,7 +9,7 @@
 - clone the repo:
 - ```git clone https://github.com/knowledgetechnologyuhh/NICO-software.git ```
 - Then for python 3 run the following line after going into the NICO software folder
--   ```   source api/NICO-python3.bash```
+  -```source api/NICO-python3.bash```
 -   After all the dependencies finish installing run:
--     ```   source api/activate.bash```
+  -```source api/activate.bash```
 
